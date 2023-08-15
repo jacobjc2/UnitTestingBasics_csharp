@@ -1,0 +1,12 @@
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\bin\Debug\net7.0\PrimeService.deps.json
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\bin\Debug\net7.0\PrimeService.dll
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\bin\Debug\net7.0\PrimeService.pdb
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\PrimeService.AssemblyInfo.cs
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\PrimeService.dll
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\refint\PrimeService.dll
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\PrimeService.pdb
+C:\Users\jacob\Documents\UnitTestingBasics\PrimeService\obj\Debug\net7.0\ref\PrimeService.dll
